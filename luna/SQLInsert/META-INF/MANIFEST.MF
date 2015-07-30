@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: SQLInsert
-Bundle-SymbolicName: SQLInsert;singleton:=true
+Bundle-SymbolicName: za.co.kirenpillay.eclipse.SQLInsert;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: za.co.kirenpillay.eclipse.datatools.sqlinsert.Activator
 Require-Bundle: org.eclipse.ui,
